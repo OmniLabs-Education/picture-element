@@ -16,5 +16,3 @@
 ![compat.png](./.github/compat.png)
 
 Documentação: [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-
-[referência](https://eke.hashnode.dev/the-amazing-html5-picture-element)
